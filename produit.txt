@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 page produit modif bnr
+=======
+page produit modif depuit bnr
+>>>>>>> page-produit
